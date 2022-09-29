@@ -1,0 +1,8 @@
+Algorithm,Dimensions,# of clusters,Duration,Accuracy,F1-micro,F1-macro,MutualInformation,NormalizedMutualInformation,Modularity,Performance,Coverage
+LaplacianEigenmaps,2,5,,0.3926,0.3926,0.2549,0.128,0.1044,-0.0251,0.2975,0.2911
+LaplacianEigenmaps,4,5,,0.9256,0.9256,0.7177,0.9236,0.8295,0.1433,0.4158,0.4096
+LaplacianEigenmaps,8,5,,0.876,0.876,0.574,0.7805,0.7775,0.1355,0.4871,0.4819
+LaplacianEigenmaps,16,5,,0.876,0.876,0.5555,0.8028,0.8012,0.1476,0.4779,0.4725
+LaplacianEigenmaps,32,5,,0.4339,0.4339,0.2192,0.1083,0.1307,0.0187,0.716,0.7143
+LaplacianEigenmaps,64,5,,0.5372,0.5372,0.535,0.3118,0.2839,0.0249,0.4008,0.3985
+LaplacianEigenmaps,128,5,,0.4669,0.4669,0.214,0.0692,0.0647,0.0133,0.4033,0.4017

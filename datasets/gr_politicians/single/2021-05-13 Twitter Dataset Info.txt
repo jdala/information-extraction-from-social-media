@@ -1,0 +1,13 @@
+Date: 13-05-2021
+
+Party, id, # MP accounts:
+syriza 0 68
+nd 1 135
+mera 2 7
+kinal 3 21
+elli 4 11
+
+Projection: 
+"Overlap similarity"
+networkx 
+H = bipartite.overlap_weighted_projected_graph(B, noi_list, jaccard=False) 

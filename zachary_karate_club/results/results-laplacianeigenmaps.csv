@@ -1,0 +1,6 @@
+Algorithm,Dimensions,Accuracy,F1-score,MutualInformation,NormalizedMutualInformation,Homogeneity,Completeness,Modularity,Performance,Coverage
+LaplacianEigenmaps,2,0.9706,0.973,0.5762,0.8365,0.8333,0.8397,0.36,0.6114,0.8718
+LaplacianEigenmaps,4,0.6765,0.766,0.1253,0.226,0.1812,0.3001,0.1328,0.3832,0.9487
+LaplacianEigenmaps,8,0.6765,0.766,0.1253,0.226,0.1812,0.3001,0.1328,0.3832,0.9487
+LaplacianEigenmaps,16,0.5,0.6047,0.0005,0.0008,0.0007,0.0009,0.1371,0.4688,0.7436
+LaplacianEigenmaps,32,0.6471,0.625,0.0492,0.0719,0.0711,0.0726,0.0473,0.5134,0.5513
